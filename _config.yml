@@ -87,7 +87,7 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2019
 
 # icon between year and author @Footer
 authoricon: heart
@@ -736,3 +736,5 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
+
+repository: SnoWolf2018/snowolf2018.github.io
