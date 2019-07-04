@@ -1,6 +1,6 @@
 ---
 title: Emoji Test
-tags:
+tags: NexT
 ---
 
 This is an emoji test. :smile: lol.

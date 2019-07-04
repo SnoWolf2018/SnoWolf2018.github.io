@@ -5,7 +5,7 @@ description: PythonPlotDemo is a simple demo for python .
 categories:
 - Python
 tags:
-- Python
+- [Python,Plot]
 ---
 <!-- more -->
 
