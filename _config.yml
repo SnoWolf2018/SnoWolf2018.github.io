@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Demo
+title: SnoWolf2018
 subtitle:
-description:
-author: SnoWolf2018
+description: Reviewings
+author: SnoWolf
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -35,7 +35,7 @@ paginate: 10
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor"]
 
 # Separator
-#excerpt_separator: <!-- more -->
+excerpt_separator: <!-- more -->
 
 # Code Highlighter
 ## 'pygments' is unsupported on GitHub Pages now.
@@ -61,8 +61,8 @@ defaults:
       comments: true
 
 # Atom feed
-feed:
-  path: atom.xml
+#feed:
+#  path: atom.xml
 
 # Plugins
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
